@@ -20,4 +20,4 @@ The purpose of this analysis is to determine if there is potential for bias towa
 
 
 ## Summary 
-The results show that there is no positivity bias towards luggage reviews written by paid Vine members as only 47.62% of the reviews were rated as 5 stars, which is similiar to the percentage of 5-star unpaid reviews at 51.54%. To provide more insight on potential bias by paid reviewers, an additioanl analysis can be performed on the reviews that were considered helpful to determine if unpaid reviewers support reviews written by paid reviewers. 
+The results show that there is no positivity bias towards luggage reviews written by paid Vine members as only 47.62% of the reviews were rated as 5 stars, which is similiar to the percentage of 5-star unpaid reviews at 51.54%. To provide more insight on potential bias by paid reviewers, an additional analysis can be performed on the reviews that were considered helpful to determine if unpaid reviewers support reviews written by paid reviewers. 
